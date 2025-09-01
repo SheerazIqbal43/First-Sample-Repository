@@ -1,4 +1,4 @@
-# First-Sample-Repository
+# First-Sample-Repository (in first branch)
 This is my repository creation on git hub, to check functionality of github and its usage.
 ## Second Heading
 This the second heading of my sample repository
